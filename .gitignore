@@ -14,4 +14,6 @@ Thumbs.db
 .nojekyll
 .project
 .settings/
+.sublime-workspace
+.sublime-project
 node_modules
